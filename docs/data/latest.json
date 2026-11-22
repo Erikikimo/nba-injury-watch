@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/22/26 03:15 PM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_15PM.pdf",
-  "slot": "2026-11-22T15:15:00-05:00",
-  "fetched_at": "2026-11-22T20:16:44+00:00"
+  "label": "11/22/26 03:45 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_45PM.pdf",
+  "slot": "2026-11-22T15:45:00-05:00",
+  "fetched_at": "2026-11-22T20:58:17+00:00"
  },
  "players": [
   {
@@ -348,7 +348,7 @@
    "matchup": "OKC@MIA",
    "game_date": "11/22/2026",
    "game_time": "06:00",
-   "status": "Out",
+   "status": "Available",
    "reason": "G League - Two-Way",
    "rank": null,
    "watch": false,
@@ -941,6 +941,198 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Tyler Bilodeau",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Joshua Jefferson",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Chaney Johnson",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Grant Nelson",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Probable",
+   "reason": "Injury/Illness - Right Ankle Sprain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Drake Powell",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ben Saraf",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Nolan Traore",
+   "team": "Brooklyn Nets",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Strain",
+   "rank": 154,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Malik Dia",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Questionable",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Bennedict Mathurin",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Plantar Fasciitis",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Bryce McGowens",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Left Elbow Infection",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Trey Murphy III",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Bilateral Patellar Tendinopathy",
+   "rank": 55,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Dejounte Murray",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Ankle Sprain",
+   "rank": 82,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Jaron Pierre Jr.",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Julian Reese",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Questionable",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Trendon Watford",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Ankle Sprain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Zion Williamson",
+   "team": "New Orleans Pelicans",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Left Thigh Contusion",
+   "rank": 32,
+   "watch": false,
+   "notable": true
   }
  ],
  "teams": [
@@ -1075,7 +1267,7 @@
    "game_time": "07:30",
    "matchup": "BKN@MIN",
    "team": "Brooklyn Nets",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1138,7 +1330,7 @@
    "game_time": "08:00",
    "matchup": "PHX@NOP",
    "team": "New Orleans Pelicans",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
