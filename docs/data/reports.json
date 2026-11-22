@@ -1,5 +1,14 @@
 [
  {
+  "label": "11/22/26 03:00 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_00PM.pdf",
+  "slot": "2026-11-22T15:00:00-05:00",
+  "players": 78,
+  "unsubmitted": 21,
+  "changes": 1,
+  "notable_changes": 1
+ },
+ {
   "label": "11/22/26 02:45 PM",
   "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_02_45PM.pdf",
   "slot": "2026-11-22T14:45:00-05:00",
