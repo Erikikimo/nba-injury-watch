@@ -36,6 +36,12 @@ jobs:
         id: poll
         run: python scraper/injury_watch.py
 
+      - name: Send phone alerts
+        if: steps.poll.outputs.changed == 'true'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python scraper/notify.py
+
       - name: Commit new data
         if: steps.poll.outputs.changed == 'true'
         run: |
