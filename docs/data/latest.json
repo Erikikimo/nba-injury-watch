@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/22/26 03:45 PM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_45PM.pdf",
-  "slot": "2026-11-22T15:45:00-05:00",
-  "fetched_at": "2026-11-22T20:58:17+00:00"
+  "label": "11/22/26 07:30 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_07_30PM.pdf",
+  "slot": "2026-11-22T19:30:00-05:00",
+  "fetched_at": "2026-11-23T00:36:33+00:00"
  },
  "players": [
   {
@@ -228,7 +228,7 @@
    "matchup": "OKC@MIA",
    "game_date": "11/22/2026",
    "game_time": "06:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Low Back Contusion/ Neck Strain",
    "rank": 15,
    "watch": false,
@@ -243,6 +243,18 @@
    "status": "Out",
    "reason": "Injury/Illness - Right Knee/ Injury Recovery",
    "rank": 11,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Aday Mara",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@MIA",
+   "game_date": "11/22/2026",
+   "game_time": "06:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Shin Contusion",
+   "rank": 127,
    "watch": false,
    "notable": true
   },
@@ -312,7 +324,7 @@
    "matchup": "OKC@MIA",
    "game_date": "11/22/2026",
    "game_time": "06:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Right Groin tendinitis",
    "rank": 17,
    "watch": false,
@@ -324,7 +336,7 @@
    "matchup": "OKC@MIA",
    "game_date": "11/22/2026",
    "game_time": "06:00",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Hamstring Tightness / Soreness",
    "rank": null,
    "watch": false,
@@ -372,7 +384,7 @@
    "matchup": "DAL@UTA",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Patellar Tendinitis",
    "rank": null,
    "watch": false,
@@ -432,7 +444,7 @@
    "matchup": "DAL@UTA",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Doubtful",
+   "status": "Out",
    "reason": "Injury/Illness - Illness",
    "rank": 115,
    "watch": false,
@@ -612,8 +624,8 @@
    "matchup": "DEN@CHI",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Out",
-   "reason": "G League - Two-Way",
+   "status": "Available",
+   "reason": "-",
    "rank": null,
    "watch": false,
    "notable": false
@@ -624,8 +636,8 @@
    "matchup": "DEN@CHI",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Probable",
-   "reason": "Injury/Illness - Gastrointestinal Illness",
+   "status": "Available",
+   "reason": "-",
    "rank": 36,
    "watch": false,
    "notable": true
@@ -636,8 +648,8 @@
    "matchup": "DEN@CHI",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Probable",
-   "reason": "Injury/Illness - Left Thumb Sprain",
+   "status": "Available",
+   "reason": "-",
    "rank": null,
    "watch": false,
    "notable": false
@@ -708,7 +720,7 @@
    "matchup": "ORL@WAS",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Illness",
    "rank": null,
    "watch": false,
@@ -732,7 +744,7 @@
    "matchup": "ORL@WAS",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Illness",
    "rank": null,
    "watch": false,
@@ -756,7 +768,7 @@
    "matchup": "ORL@WAS",
    "game_date": "11/22/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "G League - Two-Way",
    "rank": null,
    "watch": false,
@@ -840,7 +852,7 @@
    "matchup": "IND@NYK",
    "game_date": "11/22/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Hip Soreness / Tightness",
    "rank": 78,
    "watch": false,
@@ -871,16 +883,76 @@
    "notable": false
   },
   {
+   "name": "Miles McBride",
+   "team": "New York Knicks",
+   "matchup": "IND@NYK",
+   "game_date": "11/22/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Left Adductor Tightness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
    "name": "Karl-Anthony Towns",
    "team": "New York Knicks",
    "matchup": "IND@NYK",
    "game_date": "11/22/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Illness",
    "rank": 14,
    "watch": false,
    "notable": true
+  },
+  {
+   "name": "Paul George",
+   "team": "Boston Celtics",
+   "matchup": "BOS@GSW",
+   "game_date": "11/22/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "Rest",
+   "rank": 19,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Dillon Mitchell",
+   "team": "Boston Celtics",
+   "matchup": "BOS@GSW",
+   "game_date": "11/22/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Mitchell Robinson",
+   "team": "Boston Celtics",
+   "matchup": "BOS@GSW",
+   "game_date": "11/22/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Illness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Amari Williams",
+   "team": "Boston Celtics",
+   "matchup": "BOS@GSW",
+   "game_date": "11/22/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
   },
   {
    "name": "Jimmy Butler III",
@@ -941,6 +1013,246 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Cameron Boozer",
+   "team": "Memphis Grizzlies",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Ankle Sprain",
+   "rank": 43,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Jerami Grant",
+   "team": "Memphis Grizzlies",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Calf Strain",
+   "rank": 195,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "GG Jackson",
+   "team": "Memphis Grizzlies",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left 5th Metatarsal Fracture",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Scotty Pippen Jr.",
+   "team": "Memphis Grizzlies",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Lumbar Disc Herniation",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Richie Saunders",
+   "team": "Memphis Grizzlies",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Michael Ajayi",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Grayson Allen",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Concussion Protocol",
+   "rank": 99,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Kylan Boswell",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Kon Knueppel",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hamstring Strain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Brandon Miller",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Right Knee Contusion / Bone Bruise",
+   "rank": 137,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Dennis Schroder",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hamstring Strain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Grant Williams",
+   "team": "Charlotte Hornets",
+   "matchup": "MEM@CHA",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Injury Management",
+   "rank": 173,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Vit Krejci",
+   "team": "Portland Trail Blazers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Ankle Fracture",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ja Morant",
+   "team": "Portland Trail Blazers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hamstring Strain",
+   "rank": 66,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Shaedon Sharpe",
+   "team": "Portland Trail Blazers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Meniscus Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Chris Youngblood",
+   "team": "Portland Trail Blazers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Heel Contusion / Bone Bruise",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Adem Bona",
+   "team": "Philadelphia 76ers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Cervical Spine Sprain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jaylen Brown",
+   "team": "Philadelphia 76ers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Left Hamstring Strain",
+   "rank": 68,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Ariel Hukporti",
+   "team": "Philadelphia 76ers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Achilles Tendon Rupture / Tear",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Dean Wade",
+   "team": "Philadelphia 76ers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Left Hamstring Injury Management",
+   "rank": 134,
+   "watch": false,
+   "notable": true
   },
   {
    "name": "Tyler Bilodeau",
@@ -1025,6 +1337,246 @@
    "rank": 154,
    "watch": false,
    "notable": true
+  },
+  {
+   "name": "Joan Beringer",
+   "team": "Minnesota Timberwolves",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Available",
+   "reason": "Injury/Illness - Face Mask",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jaylen Clark",
+   "team": "Minnesota Timberwolves",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Strain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Donte DiVincenzo",
+   "team": "Minnesota Timberwolves",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Achilles Tendon Repair / Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Anthony Edwards",
+   "team": "Minnesota Timberwolves",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Arthroscopy",
+   "rank": 7,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Rocco Zikarsky",
+   "team": "Minnesota Timberwolves",
+   "matchup": "BKN@MIN",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ousmane Dieng",
+   "team": "Milwaukee Bucks",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Left Finger Fracture",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Kam Jones",
+   "team": "Milwaukee Bucks",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Bogoljub Markovic",
+   "team": "Milwaukee Bucks",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "RJ Barrett",
+   "team": "Toronto Raptors",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Strain",
+   "rank": 180,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Nate Bittle",
+   "team": "Toronto Raptors",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Kawhi Leonard",
+   "team": "Toronto Raptors",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Knee Injury Management",
+   "rank": 9,
+   "watch": true,
+   "notable": true
+  },
+  {
+   "name": "Collin Murray-Boyles",
+   "team": "Toronto Raptors",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Probable",
+   "reason": "Concussion Protocol",
+   "rank": 145,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Zack Austin",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Khalifa Diop",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Evan Mobley",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Great Toe Sprain",
+   "rank": 49,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Nae'Qwan Tomlin",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Low Back Stress Reaction",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jaylon Tyson",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Right Ankle Injury Management",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ernest Udeh Jr.",
+   "team": "Cleveland Cavaliers",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ryan Dunn",
+   "team": "Phoenix Suns",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Right Quad Soreness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Mark Williams",
+   "team": "Phoenix Suns",
+   "matchup": "PHX@NOP",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Shoulder Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
   },
   {
    "name": "Malik Dia",
@@ -1133,6 +1685,126 @@
    "rank": 32,
    "watch": false,
    "notable": true
+  },
+  {
+   "name": "Bradley Beal",
+   "team": "LA Clippers",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Injury Management",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Cam Christie",
+   "team": "LA Clippers",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Nick Martinelli",
+   "team": "LA Clippers",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jordan Miller",
+   "team": "LA Clippers",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Rotator Cuff Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Quadir Copeland",
+   "team": "Houston Rockets",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Julian Phillips",
+   "team": "Houston Rockets",
+   "matchup": "LAC@HOU",
+   "game_date": "11/23/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jonathan Mogbo",
+   "team": "Sacramento Kings",
+   "matchup": "SAS@SAC",
+   "game_date": "11/23/2026",
+   "game_time": "10:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Sean Pedulla",
+   "team": "Sacramento Kings",
+   "matchup": "SAS@SAC",
+   "game_date": "11/23/2026",
+   "game_time": "10:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Maxime Raynaud",
+   "team": "Sacramento Kings",
+   "matchup": "SAS@SAC",
+   "game_date": "11/23/2026",
+   "game_time": "10:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Patella Subluxation",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ben Simmons",
+   "team": "Sacramento Kings",
+   "matchup": "SAS@SAC",
+   "game_date": "11/23/2026",
+   "game_time": "10:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Achilles Tendon Repair / Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
   }
  ],
  "teams": [
@@ -1225,7 +1897,7 @@
    "game_time": "08:30",
    "matchup": "BOS@GSW",
    "team": "Boston Celtics",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/22/2026",
@@ -1239,28 +1911,28 @@
    "game_time": "07:00",
    "matchup": "MEM@CHA",
    "team": "Memphis Grizzlies",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:00",
    "matchup": "MEM@CHA",
    "team": "Charlotte Hornets",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:00",
    "matchup": "POR@PHI",
    "team": "Portland Trail Blazers",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:00",
    "matchup": "POR@PHI",
    "team": "Philadelphia 76ers",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1274,21 +1946,21 @@
    "game_time": "07:30",
    "matchup": "BKN@MIN",
    "team": "Minnesota Timberwolves",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:30",
    "matchup": "MIL@TOR",
    "team": "Milwaukee Bucks",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:30",
    "matchup": "MIL@TOR",
    "team": "Toronto Raptors",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1309,7 +1981,7 @@
    "game_time": "08:00",
    "matchup": "CLE@CHI",
    "team": "Cleveland Cavaliers",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1323,7 +1995,7 @@
    "game_time": "08:00",
    "matchup": "PHX@NOP",
    "team": "Phoenix Suns",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1337,14 +2009,14 @@
    "game_time": "08:30",
    "matchup": "LAC@HOU",
    "team": "LA Clippers",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "08:30",
    "matchup": "LAC@HOU",
    "team": "Houston Rockets",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -1358,7 +2030,7 @@
    "game_time": "10:00",
    "matchup": "SAS@SAC",
    "team": "Sacramento Kings",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
