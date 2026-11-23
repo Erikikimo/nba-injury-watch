@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/23/26 03:00 AM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_03_00AM.pdf",
-  "slot": "2026-11-23T03:00:00-05:00",
-  "fetched_at": "2026-11-23T08:08:52+00:00"
+  "label": "11/23/26 03:00 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_03_00PM.pdf",
+  "slot": "2026-11-23T15:00:00-05:00",
+  "fetched_at": "2026-11-23T20:06:51+00:00"
  },
  "players": [
   {
@@ -223,6 +223,18 @@
    "notable": true
   },
   {
+   "name": "Joel Embiid",
+   "team": "Philadelphia 76ers",
+   "matchup": "POR@PHI",
+   "game_date": "11/23/2026",
+   "game_time": "07:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Illness",
+   "rank": 52,
+   "watch": false,
+   "notable": true
+  },
+  {
    "name": "Ariel Hukporti",
    "team": "Philadelphia 76ers",
    "matchup": "POR@PHI",
@@ -288,7 +300,7 @@
    "matchup": "BKN@MIN",
    "game_date": "11/23/2026",
    "game_time": "07:30",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Ankle Sprain",
    "rank": null,
    "watch": false,
@@ -396,8 +408,8 @@
    "matchup": "MIL@TOR",
    "game_date": "11/23/2026",
    "game_time": "07:30",
-   "status": "Questionable",
-   "reason": "Injury/Illness - Left Finger Fracture",
+   "status": "Available",
+   "reason": "-",
    "rank": null,
    "watch": false,
    "notable": false
@@ -451,6 +463,18 @@
    "notable": false
   },
   {
+   "name": "Jaden Bradley",
+   "team": "Toronto Raptors",
+   "matchup": "MIL@TOR",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Right Ankle Sprain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
    "name": "Kawhi Leonard",
    "team": "Toronto Raptors",
    "matchup": "MIL@TOR",
@@ -471,6 +495,174 @@
    "status": "Probable",
    "reason": "Concussion Protocol",
    "rank": 145,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Alex Caruso",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hip Impingement",
+   "rank": 120,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Chet Holmgren",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee/ Injury Recovery",
+   "rank": 11,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Aday Mara",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Shin Contusion",
+   "rank": 127,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Thomas Sorber",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Nikola Topic",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hip Strain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Cason Wallace",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Shoulder Surgery",
+   "rank": 164,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Jalen Williams",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Ankle Surgery",
+   "rank": 153,
+   "watch": true,
+   "notable": true
+  },
+  {
+   "name": "Jaylin Williams",
+   "team": "Oklahoma City Thunder",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Low Back Spasms",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Johnny Furphy",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right ACL Repair / Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Tyrese Haliburton",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hamstring Strain",
+   "rank": 5,
+   "watch": true,
+   "notable": true
+  },
+  {
+   "name": "T.J. McConnell",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Hamstring Soreness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Aaron Nesmith",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Foot Soreness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Ben Sheppard",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Meniscus Surgery",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Pascal Siakam",
+   "team": "Indiana Pacers",
+   "matchup": "OKC@IND",
+   "game_date": "11/23/2026",
+   "game_time": "07:30",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Left Hip Injury Management",
+   "rank": 78,
    "watch": false,
    "notable": true
   },
@@ -547,12 +739,60 @@
    "notable": false
   },
   {
+   "name": "Nic Claxton",
+   "team": "Chicago Bulls",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Illness",
+   "rank": 142,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Norman Powell",
+   "team": "Chicago Bulls",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Strain",
+   "rank": 128,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Jalen Smith",
+   "team": "Chicago Bulls",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Gastrointestinal Illness",
+   "rank": 36,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Caleb Wilson",
+   "team": "Chicago Bulls",
+   "matchup": "CLE@CHI",
+   "game_date": "11/23/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Metacarpal Fracture",
+   "rank": 83,
+   "watch": false,
+   "notable": true
+  },
+  {
    "name": "Ryan Dunn",
    "team": "Phoenix Suns",
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Quad Soreness",
    "rank": null,
    "watch": false,
@@ -576,7 +816,7 @@
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "G League - Two-Way",
    "rank": null,
    "watch": false,
@@ -600,7 +840,7 @@
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Elbow Infection",
    "rank": null,
    "watch": false,
@@ -612,7 +852,7 @@
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Bilateral Patellar Tendinopathy",
    "rank": 55,
    "watch": false,
@@ -636,7 +876,7 @@
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Probable",
+   "status": "Available",
    "reason": "G League - Two-Way",
    "rank": null,
    "watch": false,
@@ -648,7 +888,7 @@
    "matchup": "PHX@NOP",
    "game_date": "11/23/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "G League - Two-Way",
    "rank": null,
    "watch": false,
@@ -957,14 +1197,14 @@
    "game_time": "07:30",
    "matchup": "OKC@IND",
    "team": "Oklahoma City Thunder",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
    "game_time": "07:30",
    "matchup": "OKC@IND",
    "team": "Indiana Pacers",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
@@ -978,7 +1218,7 @@
    "game_time": "08:00",
    "matchup": "CLE@CHI",
    "team": "Chicago Bulls",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/23/2026",
