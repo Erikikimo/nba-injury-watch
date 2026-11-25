@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/25/26 01:45 AM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_01_45AM.pdf",
-  "slot": "2026-11-25T01:45:00-05:00",
-  "fetched_at": "2026-11-25T06:48:23+00:00"
+  "label": "11/25/26 12:30 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_30PM.pdf",
+  "slot": "2026-11-25T12:30:00-05:00",
+  "fetched_at": "2026-11-25T17:39:56+00:00"
  },
  "players": [
   {
@@ -101,18 +101,6 @@
    "rank": 128,
    "watch": false,
    "notable": true
-  },
-  {
-   "name": "Orlando Robinson",
-   "team": "Chicago Bulls",
-   "matchup": "CHI@CHA",
-   "game_date": "11/25/2026",
-   "game_time": "07:00",
-   "status": "Out",
-   "reason": "Not With Team",
-   "rank": null,
-   "watch": false,
-   "notable": false
   },
   {
    "name": "Jaylin Sellers",

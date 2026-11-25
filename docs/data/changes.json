@@ -1,5 +1,22 @@
 [
  {
+  "report": "11/25/26 11:30 AM",
+  "slot": "2026-11-25T11:30:00-05:00",
+  "type": "removed",
+  "direction": "upgrade",
+  "name": "Orlando Robinson",
+  "team": "Chicago Bulls",
+  "matchup": "CHI@CHA",
+  "game_date": "11/25/2026",
+  "game_time": "07:00",
+  "from": "Out",
+  "to": null,
+  "reason": "Not With Team",
+  "rank": null,
+  "watch": false,
+  "notable": false
+ },
+ {
   "report": "11/24/26 10:00 PM",
   "slot": "2026-11-24T22:00:00-05:00",
   "type": "team_submitted",
