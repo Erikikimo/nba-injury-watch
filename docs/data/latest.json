@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/25/26 12:30 PM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_30PM.pdf",
-  "slot": "2026-11-25T12:30:00-05:00",
-  "fetched_at": "2026-11-25T17:39:56+00:00"
+  "label": "11/25/26 08:00 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_08_00PM.pdf",
+  "slot": "2026-11-25T20:00:00-05:00",
+  "fetched_at": "2026-11-26T01:09:55+00:00"
  },
  "players": [
   {
@@ -12,7 +12,7 @@
    "matchup": "MIA@PHI",
    "game_date": "11/25/2026",
    "game_time": "05:00",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Groin Tendinitis",
    "rank": 17,
    "watch": false,
@@ -60,7 +60,7 @@
    "matchup": "MIA@PHI",
    "game_date": "11/25/2026",
    "game_time": "05:00",
-   "status": "Doubtful",
+   "status": "Out",
    "reason": "Injury/Illness - Illness",
    "rank": 52,
    "watch": false,
@@ -120,7 +120,7 @@
    "matchup": "CHI@CHA",
    "game_date": "11/25/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Gastrointestinal Illness",
    "rank": 36,
    "watch": false,
@@ -156,7 +156,7 @@
    "matchup": "CHI@CHA",
    "game_date": "11/25/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Concussion Protocol",
    "rank": 99,
    "watch": false,
@@ -180,7 +180,7 @@
    "matchup": "CHI@CHA",
    "game_date": "11/25/2026",
    "game_time": "07:00",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Thigh Soreness",
    "rank": null,
    "watch": false,
@@ -192,7 +192,7 @@
    "matchup": "CHI@CHA",
    "game_date": "11/25/2026",
    "game_time": "07:00",
-   "status": "Doubtful",
+   "status": "Out",
    "reason": "Injury/Illness - Left Hip Soreness / Tightness",
    "rank": 169,
    "watch": false,
@@ -295,6 +295,18 @@
    "notable": true
   },
   {
+   "name": "Jalen Brunson",
+   "team": "New York Knicks",
+   "matchup": "CLE@NYK",
+   "game_date": "11/25/2026",
+   "game_time": "07:30",
+   "status": "Available",
+   "reason": "Injury/Illness - Illness",
+   "rank": 42,
+   "watch": false,
+   "notable": true
+  },
+  {
    "name": "Jordan Clarkson",
    "team": "New York Knicks",
    "matchup": "CLE@NYK",
@@ -312,7 +324,7 @@
    "matchup": "CLE@NYK",
    "game_date": "11/25/2026",
    "game_time": "07:30",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Shoulder Sprain",
    "rank": 148,
    "watch": false,
@@ -324,7 +336,7 @@
    "matchup": "CLE@NYK",
    "game_date": "11/25/2026",
    "game_time": "07:30",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Left Adductor Tightness",
    "rank": null,
    "watch": false,
@@ -336,7 +348,7 @@
    "matchup": "CLE@NYK",
    "game_date": "11/25/2026",
    "game_time": "07:30",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Knee Inflammation",
    "rank": 14,
    "watch": false,
@@ -595,6 +607,18 @@
    "notable": false
   },
   {
+   "name": "Jalen Pickett",
+   "team": "LA Clippers",
+   "matchup": "LAC@MEM",
+   "game_date": "11/25/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
    "name": "Cameron Boozer",
    "team": "Memphis Grizzlies",
    "matchup": "LAC@MEM",
@@ -655,6 +679,30 @@
    "notable": false
   },
   {
+   "name": "Pat Spencer",
+   "team": "Phoenix Suns",
+   "matchup": "PHX@HOU",
+   "game_date": "11/25/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Drew Timme",
+   "team": "Phoenix Suns",
+   "matchup": "PHX@HOU",
+   "game_date": "11/25/2026",
+   "game_time": "08:30",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
    "name": "Mark Williams",
    "team": "Phoenix Suns",
    "matchup": "PHX@HOU",
@@ -689,6 +737,18 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Zach LaVine",
+   "team": "Sacramento Kings",
+   "matchup": "SAC@GSW",
+   "game_date": "11/25/2026",
+   "game_time": "10:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Soreness",
+   "rank": 65,
+   "watch": false,
+   "notable": true
   },
   {
    "name": "Jonathan Mogbo",
