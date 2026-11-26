@@ -1,11 +1,60 @@
 {
  "report": {
-  "label": "11/26/26 04:15 AM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_04_15AM.pdf",
-  "slot": "2026-11-26T04:15:00-05:00",
-  "fetched_at": "2026-11-26T09:28:54+00:00"
+  "label": "11/26/26 02:00 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_02_00PM.pdf",
+  "slot": "2026-11-26T14:00:00-05:00",
+  "fetched_at": "2026-11-26T19:13:45+00:00"
  },
- "players": [],
+ "players": [
+  {
+   "name": "Devin Carter",
+   "team": "Boston Celtics",
+   "matchup": "ATL@BOS",
+   "game_date": "11/27/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Dillon Mitchell",
+   "team": "Boston Celtics",
+   "matchup": "ATL@BOS",
+   "game_date": "11/27/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Mitchell Robinson",
+   "team": "Boston Celtics",
+   "matchup": "ATL@BOS",
+   "game_date": "11/27/2026",
+   "game_time": "08:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Illness",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Amari Williams",
+   "team": "Boston Celtics",
+   "matchup": "ATL@BOS",
+   "game_date": "11/27/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  }
+ ],
  "teams": [
   {
    "game_date": "11/27/2026",
@@ -75,7 +124,7 @@
    "game_time": "08:00",
    "matchup": "ATL@BOS",
    "team": "Boston Celtics",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/27/2026",
