@@ -1,9 +1,9 @@
 {
  "report": {
-  "label": "11/27/26 05:45 AM",
-  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_05_45AM.pdf",
-  "slot": "2026-11-27T05:45:00-05:00",
-  "fetched_at": "2026-11-27T10:48:48+00:00"
+  "label": "11/27/26 02:30 PM",
+  "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_02_30PM.pdf",
+  "slot": "2026-11-27T14:30:00-05:00",
+  "fetched_at": "2026-11-27T19:40:56+00:00"
  },
  "players": [
   {
@@ -48,8 +48,8 @@
    "matchup": "MIA@NYK",
    "game_date": "11/27/2026",
    "game_time": "07:00",
-   "status": "Probable",
-   "reason": "Injury/Illness - Right Ankle Sprain",
+   "status": "Available",
+   "reason": "Injury/Illness - Right Ankle Impingement",
    "rank": 186,
    "watch": false,
    "notable": true
@@ -60,7 +60,7 @@
    "matchup": "MIA@NYK",
    "game_date": "11/27/2026",
    "game_time": "07:00",
-   "status": "Doubtful",
+   "status": "Out",
    "reason": "Injury/Illness - Left Calf Strain",
    "rank": 75,
    "watch": false,
@@ -72,7 +72,7 @@
    "matchup": "MIA@NYK",
    "game_date": "11/27/2026",
    "game_time": "07:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Right Plantar Fasciitis",
    "rank": null,
    "watch": false,
@@ -84,8 +84,8 @@
    "matchup": "MIA@NYK",
    "game_date": "11/27/2026",
    "game_time": "07:00",
-   "status": "Questionable",
-   "reason": "Injury/Illness - Head",
+   "status": "Out",
+   "reason": "Injury/Illness - Concussion Protocol",
    "rank": null,
    "watch": false,
    "notable": false
@@ -96,11 +96,23 @@
    "matchup": "MIA@NYK",
    "game_date": "11/27/2026",
    "game_time": "07:00",
-   "status": "Questionable",
-   "reason": "Injury/Illness - Left Adductor Tightness",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Athletic Pubalgia",
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Karl-Anthony Towns",
+   "team": "New York Knicks",
+   "matchup": "MIA@NYK",
+   "game_date": "11/27/2026",
+   "game_time": "07:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Right Abdominal Contusion",
+   "rank": 14,
+   "watch": false,
+   "notable": true
   },
   {
    "name": "Tyler Bilodeau",
@@ -230,6 +242,18 @@
    "game_time": "07:30",
    "status": "Out",
    "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Kasparas Jakucionis",
+   "team": "Milwaukee Bucks",
+   "matchup": "MIL@DET",
+   "game_date": "11/27/2026",
+   "game_time": "07:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Left Ankle Tenosynovitis",
    "rank": null,
    "watch": false,
    "notable": false
@@ -379,6 +403,18 @@
    "notable": false
   },
   {
+   "name": "Dean Wade",
+   "team": "Philadelphia 76ers",
+   "matchup": "PHI@IND",
+   "game_date": "11/27/2026",
+   "game_time": "07:30",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Left Hamstring Injury Management",
+   "rank": 134,
+   "watch": false,
+   "notable": true
+  },
+  {
    "name": "Johnny Furphy",
    "team": "Indiana Pacers",
    "matchup": "PHI@IND",
@@ -420,7 +456,7 @@
    "matchup": "PHI@IND",
    "game_date": "11/27/2026",
    "game_time": "07:30",
-   "status": "Questionable",
+   "status": "Probable",
    "reason": "Injury/Illness - Right Ankle Bruise",
    "rank": null,
    "watch": false,
@@ -564,7 +600,7 @@
    "matchup": "ATL@BOS",
    "game_date": "11/27/2026",
    "game_time": "08:00",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Illness",
    "rank": null,
    "watch": false,
@@ -684,7 +720,7 @@
    "matchup": "MEM@MIN",
    "game_date": "11/27/2026",
    "game_time": "08:30",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Left Ankle Sprain",
    "rank": 98,
    "watch": false,
@@ -773,6 +809,18 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Kyrie Irving",
+   "team": "Dallas Mavericks",
+   "matchup": "DAL@PHX",
+   "game_date": "11/27/2026",
+   "game_time": "09:00",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Left Knee Injury Management",
+   "rank": 20,
+   "watch": false,
+   "notable": true
   },
   {
    "name": "Tobi Lawal",
@@ -869,6 +917,18 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Mo Bamba",
+   "team": "Utah Jazz",
+   "matchup": "DEN@UTA",
+   "game_date": "11/27/2026",
+   "game_time": "09:30",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Illness",
+   "rank": 79,
+   "watch": false,
+   "notable": true
   },
   {
    "name": "Kobe Bufkin",
@@ -1003,6 +1063,18 @@
    "notable": false
   },
   {
+   "name": "Damian Lillard",
+   "team": "Portland Trail Blazers",
+   "matchup": "GSW@POR",
+   "game_date": "11/27/2026",
+   "game_time": "09:30",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Calf Tightness / Soreness",
+   "rank": 97,
+   "watch": false,
+   "notable": true
+  },
+  {
    "name": "Ja Morant",
    "team": "Portland Trail Blazers",
    "matchup": "GSW@POR",
@@ -1056,7 +1128,7 @@
    "matchup": "LAL@SAS",
    "game_date": "11/27/2026",
    "game_time": "09:30",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Heel Contusion / Bone Bruise",
    "rank": 26,
    "watch": false,
@@ -1253,6 +1325,90 @@
    "rank": null,
    "watch": false,
    "notable": false
+  },
+  {
+   "name": "Tobe Awaka",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Noa Essengue",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Right Thumb Sprain",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Norman Powell",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Hamstring Strain",
+   "rank": 128,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Jaylin Sellers",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Jalen Smith",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Probable",
+   "reason": "Injury/Illness - Gastrointestinal Illness",
+   "rank": 36,
+   "watch": false,
+   "notable": true
+  },
+  {
+   "name": "Dailyn Swain",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "G League - On Assignment",
+   "rank": null,
+   "watch": false,
+   "notable": false
+  },
+  {
+   "name": "Caleb Wilson",
+   "team": "Chicago Bulls",
+   "matchup": "IND@CHI",
+   "game_date": "11/28/2026",
+   "game_time": "08:00",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Metacarpal Fracture",
+   "rank": 83,
+   "watch": false,
+   "notable": true
   }
  ],
  "teams": [
@@ -1450,7 +1606,7 @@
    "game_time": "08:00",
    "matchup": "IND@CHI",
    "team": "Chicago Bulls",
-   "submitted": false
+   "submitted": true
   },
   {
    "game_date": "11/28/2026",
